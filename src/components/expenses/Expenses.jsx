@@ -4,7 +4,7 @@ import "../expenses/Expense.css"
 export const Expenses = ({expenses}) => {
     // console.log(expenses);
   return (
-    <ul className="ul-title">
+    <ul className="expenses-list">
       {expenses.map((elem) => {
         // console.log(expenses);
         return (

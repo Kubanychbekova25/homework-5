@@ -18,14 +18,14 @@ setShowForm((prevState) => {
  };
 
     return (
-        <div className="header">
+        <div className="new-expense">
 
           {showForm ? (
           <ExpenseForm onShowForm={showExpenseForm} onNewExpenseAdd={onNewExpenseAdd}/> 
           ) : ( 
-          <Button className="btn" title ="Добавить новый расход" onClick={showExpenseForm}/>
+          <Button className="btn1" title ="Добавить новый расход" onClick={showExpenseForm}/>
           )}
-           {/* <NewExpense/> */}
+           
         </div>
  )
 }

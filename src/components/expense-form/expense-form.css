@@ -1,15 +1,18 @@
-.form-title{
- 
-    margin-left: 15rem;
-    background: rgba(179, 102, 231, 0.884);
-    width: 35rem;
-    height: 20rem;
-    border-radius: 12px;
- 
-    
-}
-.form-item{
-    
+
+.expense-form {
     display: flex;
     justify-content: space-around;
-}
+   
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  
+  
+  
+  
+  .buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+  }
