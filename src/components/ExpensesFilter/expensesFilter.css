@@ -1,0 +1,9 @@
+.expenses-filter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.label-filter   {
+   
+    color:azure;
+}

@@ -1,8 +1,8 @@
 {
-  "name": "tehnical-lesson-2",
+  "name": "homework-5",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kubanychbekova25.github.io/homework-3",
+  "homepage": "https://Kubanychbekova25/homework-5",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
