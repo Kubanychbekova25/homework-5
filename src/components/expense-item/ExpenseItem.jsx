@@ -10,7 +10,7 @@ export const ExpenseItem = ({ title, date, price }) => {
 
       <span className="title">{title}</span>
       <div className="price">
-        <p>{"$" + price + ",00"}</p>
+        <p>{"som" + price + ",00"}</p>
       </div>
     </div>
   );
